@@ -15,7 +15,7 @@ In Main Class put this code:
         }.runTaskTimer(this, 0, 10L);
 
 To get a server is: 
-        BungeeCord.getServersByName().get("name-server").getPlayerCount()
+        **BungeeCord.getServersByName().get("name-server").getPlayerCount()**
         
 To get global players is:
-        BungeeCord.getGlobalPlayers();
+        **BungeeCord.getGlobalPlayers();**
